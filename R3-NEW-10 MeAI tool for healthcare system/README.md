@@ -4,7 +4,7 @@ Contents: Here is snapshot of our proposal activities
 ![image](https://github.com/cardano2vn/deepfunding/assets/34856010/0c0707c6-bf91-47f6-9fb5-107da8961e92)
 
 
-In Milestone 1 we have delieveried these activities:
+In Milestone 1 we have delivered these activities:
 
 - 1- Analyze problems
 - 2- Data Preparation
