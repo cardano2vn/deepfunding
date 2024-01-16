@@ -19,4 +19,5 @@ Analyze problems is ready at  [this link](https://breakdance.github.io/breakdanc
 Data Preparation is available at [this link](https://breakdance.github.io/breakdance/)
 ## 6.1 and 6.2 - Marketing activities:
 Marketing plan is at [this link](https://breakdance.github.io/breakdance/)
+
 Leverage Social Media Activies are plan at [this schedule](https://breakdance.github.io/breakdance/)
