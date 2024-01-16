@@ -14,9 +14,9 @@ And these are individuals document/delivery we did:
 
 
 ## 1- Analyze problems:
-Analyze problems is ready at  [this link]([https://breakdance.github.io/breakdance/](https://onedrive.live.com/?authkey=%21AEwP5m6ONKwlZqg&cid=AB596397B82FC465&id=AB596397B82FC465%21241659&parId=AB596397B82FC465%21201976&o=OneUp))
+Analyze problems is ready at  [this link](https://onedrive.live.com/?authkey=%21AEwP5m6ONKwlZqg&cid=AB596397B82FC465&id=AB596397B82FC465%21241659&parId=AB596397B82FC465%21201976&o=OneUp))
 ## 2- Data Preparation:
-Data Preparation is available at [this link]([https://breakdance.github.io/breakdance/](https://onedrive.live.com/?authkey=%21AEwP5m6ONKwlZqg&cid=AB596397B82FC465&id=AB596397B82FC465%21241154&parId=AB596397B82FC465%21201976&o=OneUp))
+Data Preparation is available at [this link](https://onedrive.live.com/?authkey=%21AEwP5m6ONKwlZqg&cid=AB596397B82FC465&id=AB596397B82FC465%21241154&parId=AB596397B82FC465%21201976&o=OneUp)
 ## 6.1 and 6.2 - Marketing activities:
 Marketing plan is at [this link](https://docs.google.com/presentation/d/1cvzSWgG-g5yy8e2yU1NWNzMbzze21Btd/edit?usp=sharing&ouid=106811817203266848443&rtpof=true&sd=true)
 
