@@ -2,17 +2,22 @@
 ## Date: 13 Mar 2024
 Detail report is at [here](https://github.com/cardano2vn/deepfunding/blob/main/R3-NEW-10%20MeAI%20tool%20for%20healthcare%20system/DFR3-NEW10-MS2.pdf)
 
-###TLDR:
+**TLDR:**
 
 In this report we explain detail what we did in:
 
-###3.  R&D AI models
+**3\. R&D AI models**
+
 3.1 R&D object detection models
+
 3.2 Do experiments to find the most suitable models
 
-###4.  Training AI models
+**4\. Training AI models**
+
 4.1 Training AI models with the prepared data
+
 4.2 Evaluating trained models
+
 4.3 Convert models for deploying
 
 
