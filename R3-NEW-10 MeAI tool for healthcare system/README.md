@@ -1,6 +1,6 @@
 # R3-NEW-10 MeAI tool for healthcare system - Milestone 2 Report
 ## Date: 13 Mar 2024
-** :point_right: Detail report is at [here](https://github.com/cardano2vn/deepfunding/blob/main/R3-NEW-10%20MeAI%20tool%20for%20healthcare%20system/DFR3-NEW10-MS2.pdf) **
+ :point_right: ** Detail report is at  ** [here](https://github.com/cardano2vn/deepfunding/blob/main/R3-NEW-10%20MeAI%20tool%20for%20healthcare%20system/DFR3-NEW10-MS2.pdf)
 
 **TLDR:**
 
