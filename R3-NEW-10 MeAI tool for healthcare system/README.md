@@ -21,3 +21,6 @@ Data Preparation is available at [this link](https://onedrive.live.com/?authkey=
 Marketing plan is at [this link](https://docs.google.com/presentation/d/1cvzSWgG-g5yy8e2yU1NWNzMbzze21Btd/edit?usp=sharing&ouid=106811817203266848443&rtpof=true&sd=true)
 
 Leverage Social Media Activies are plan at [this schedule](https://docs.google.com/spreadsheets/d/1n-d8fY9w49Bwr3vOKGrjMmWe49Eda_EqBT8h-RexTKI/edit?usp=sharing)
+
+# R3-NEW-10 MeAI tool for healthcare system - Milestone 2 Report
+## Date: 13 Mar 2024
