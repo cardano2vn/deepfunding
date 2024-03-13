@@ -1,3 +1,20 @@
+# R3-NEW-10 MeAI tool for healthcare system - Milestone 2 Report
+## Date: 13 Mar 2024
+Detail report is at [here](https://github.com/cardano2vn/deepfunding/blob/main/R3-NEW-10%20MeAI%20tool%20for%20healthcare%20system/DFR3-NEW10-MS2.pdf)
+
+TLDR:
+In this report we explain detail what we did in:
+3.  R&D AI models
+3.1 R&D object detection models
+3.2 Do experiments to find the most suitable models
+
+4.  Training AI models
+4.1 Training AI models with the prepared data
+4.2 Evaluating trained models
+4.3 Convert models for deploying
+
+
+
 # R3-NEW-10 MeAI tool for healthcare system - Milestone 1 Report
 ## Date: 16 Jan 2024
 Contents: Here is snapshot of our proposal activities
@@ -22,5 +39,4 @@ Marketing plan is at [this link](https://docs.google.com/presentation/d/1cvzSWgG
 
 Leverage Social Media Activies are plan at [this schedule](https://docs.google.com/spreadsheets/d/1n-d8fY9w49Bwr3vOKGrjMmWe49Eda_EqBT8h-RexTKI/edit?usp=sharing)
 
-# R3-NEW-10 MeAI tool for healthcare system - Milestone 2 Report
-## Date: 13 Mar 2024
+
