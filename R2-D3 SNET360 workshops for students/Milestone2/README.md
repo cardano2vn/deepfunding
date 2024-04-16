@@ -25,7 +25,7 @@ We had delieverd 08 workshop (both online/offlines) with total ~392 attendees.
 ![image](https://github.com/cardano2vn/deepfunding/assets/107251579/544f528b-686c-49d7-a6a5-158db1b82520)
 
 Please refer the links in [slides](https://docs.google.com/presentation/d/1apLLkQE9334kkrK7F4RV5BjyODLpoY9cDhsRc8Xavk4/edit#slide=id.g2c913e0ae36_0_8)
-# Gifts for outstanding questions/ active participation
+# Gifts for outstanding questions/ active participations
 We had designed T-shirt and gave to teachers/ researcher/students as a recognitions for their contribution in workshops
 ![image](https://github.com/cardano2vn/deepfunding/assets/107251579/7883c5fe-5399-43bb-882f-abe10a92381e)
 
