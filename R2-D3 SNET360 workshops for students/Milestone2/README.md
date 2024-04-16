@@ -4,7 +4,7 @@
 |  Project Name |SNET360 workshops for students- Milestone2|
 | ------------ | ------------ |
 | Project ID  | R2-D3 |
-# Slide for this achievement is at [think link](https://docs.google.com/presentation/d/1apLLkQE9334kkrK7F4RV5BjyODLpoY9cDhsRc8Xavk4/edit#slide=id.g2c913e0ae36_0_8)
+# Slide for this achievement is at [this link](https://docs.google.com/presentation/d/1apLLkQE9334kkrK7F4RV5BjyODLpoY9cDhsRc8Xavk4/edit#slide=id.g2c913e0ae36_0_8)
 # Documents, slide preparation 
 We create and used these documents to share with audiences at each workshops:
 [Deep Funding Introduction](https://docs.google.com/presentation/d/19s6t7ORNlBioavi7hiMRxFgeRjY5q7-7ozWi33Ja4G0/edit#slide=id.g23ab452b9a0_0_239)
