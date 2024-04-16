@@ -4,6 +4,8 @@
 |  Project Name |SNET360 workshops for students- Milestone2|
 | ------------ | ------------ |
 | Project ID  | R2-D3 |
+| Project URL  | [on DeepFunding link](https://deepfunding.ai/proposal/snet-360-events-at-the-universities/) |
+
 # Slide for this achievement is at [this link](https://docs.google.com/presentation/d/1apLLkQE9334kkrK7F4RV5BjyODLpoY9cDhsRc8Xavk4/edit#slide=id.g2c913e0ae36_0_8)
 # Documents, slide preparation 
 We create and used these documents to share with audiences at each workshops:
